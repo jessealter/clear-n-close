@@ -13,4 +13,4 @@ If not, then put it here:
 ```
 ~/Library/Application Scripts/com.codeux.apps.textual/
 ```
-If those don't exist, make them.
+If the directory that you need is missing, create it.
